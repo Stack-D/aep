@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0b08b43-dac4-47a3-a73c-d69ad8148a41" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven-3.8.2\maven-repository" />
+        <option name="mavenHome" value="D:/Maven/maven-3.8.2/apache-maven-3.8.2" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\maven-3.8.2\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21G8nKtgyroect0YVM6DSGEowa6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itus/src/main/java/com/itus/common/exception" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\java\com\itus\common\exception" />
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\java\com\itus\common\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\java\com\itus\service\impl" />
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\java\com\itus\service" />
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\java\com\itus\model\entity" />
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus\src\main\resources" />
+      <recent name="C:\Users\Eobot\Desktop\作业\ITUS\itus_backend\itus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itus.service.impl.CodeGenerator" />
+      <module name="itus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itus.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainAppliction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itus.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itus" />
+      <option name="MAIN_CLASS_NAME" value="com.itus.TestMainAppliction" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itus.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JUnit.TestMainAppliction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b08b43-dac4-47a3-a73c-d69ad8148a41" name="Changes" comment="" />
+      <created>1637556240089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637556240089</updated>
+      <workItem from="1637556249934" duration="883000" />
+      <workItem from="1637563026180" duration="1201000" />
+      <workItem from="1637589967626" duration="4739000" />
+      <workItem from="1637630347827" duration="5386000" />
+      <workItem from="1638428524031" duration="2066000" />
+      <workItem from="1638432090793" duration="1267000" />
+      <workItem from="1638513347044" duration="1000" />
+      <workItem from="1638513613961" duration="554000" />
+      <workItem from="1638514211809" duration="57000" />
+      <workItem from="1638514324535" duration="43000" />
+      <workItem from="1638514538146" duration="25000" />
+      <workItem from="1638516375271" duration="320000" />
+      <workItem from="1638599973302" duration="4018000" />
+      <workItem from="1638752024281" duration="6376000" />
+      <workItem from="1638798967504" duration="150000" />
+      <workItem from="1638844981929" duration="40000" />
+      <workItem from="1638845132210" duration="57000" />
+      <workItem from="1639189050638" duration="546000" />
+      <workItem from="1639712773817" duration="591000" />
+      <workItem from="1639721369784" duration="698000" />
+      <workItem from="1639722137628" duration="486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
